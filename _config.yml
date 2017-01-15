@@ -1,6 +1,6 @@
 # Site settings
 title: "MgA. Ján Hyža, PhD."
-description: "Professioneller Gesangsunterricht und Kindertheater in Wien"
+description: "Professioneller Gesangsunterricht in Wien"
 url: "http://gesangscoaching.at"
 
 
@@ -10,7 +10,7 @@ url: "http://gesangscoaching.at"
 baseurl: "/project-pages"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: 
 
 # Tertiary Parameters
 github_username:  projectpages
