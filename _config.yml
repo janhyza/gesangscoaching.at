@@ -7,7 +7,7 @@ url: "http://gesangscoaching.at"
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: ""
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: 
