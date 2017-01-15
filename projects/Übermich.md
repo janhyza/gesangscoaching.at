@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Über mich"
-description: "Description of Project #1"
+description: "Musikaldarsteller - Sänger - Gesangslehrer - Gesangstechnik Wissenschaftler"
 header-img: "img/home-bg.jpg"
 category: project1
 ---
