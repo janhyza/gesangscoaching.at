@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "Why use Project Pages?"
+title: "Gesangsunterricht"
+description: "Deine Stimme - Individuelle Gesangstechnik für dich"
 header-img: "img/home-bg.jpg"
 ---
 
