@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kindertheater"
-description: "Das ..."
+description: "Das größe Arthur Knödel Reiseabenteuer"
 header-img: "img/pom1.jpg"
 ---
 
