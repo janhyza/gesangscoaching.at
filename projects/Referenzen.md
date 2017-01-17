@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Referenzen"
-description: "Deine Stimme - Individuelle Gesangstechnik für dich"
+description: "Meine Absolventen - Meine Arbeit"
 header-img: "img/home-bg.jpg"
 ---
 
