@@ -2,7 +2,7 @@
 layout: page
 title: "Kindertheater"
 description: "Das größe Arthur Knödel Reiseabenteuer"
-header-img: "img/pom1.jpg"
+header-img: "img/pom1a.jpg"
 ---
 
 Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
