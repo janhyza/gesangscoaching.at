@@ -17,3 +17,5 @@ In  der Aufführung  werden  die Methoden  der  Dramapädagogik eingesetzt, die 
 Das Zusammenspiel der Puppen und die Bildlichkeit des Theaters entwickeln die Achtsamkeit des Kindes, die Empathie, sowie auch kreatives und kritisches Denken.  Durch die Lieder in der Aufführung und die Mitarbeit der Kinder beim Singen werden positiv die Musikfertigkeitsentwicklung  (der  Rhythmus, die  Melodie, die  Musikperzeption)  beeinflusst  und  die Anspannung entfernt. 
 
 Die Aufführung dauert ca. 40 Minuten.  
+
+Für Buchungen sowie nähere Informationen bin ich jederzeit für Sie per Mail oder per Telefon erreichbar.
