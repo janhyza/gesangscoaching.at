@@ -20,4 +20,3 @@ Die Aufführung dauert ca. 40 Minuten.
 
 Für Buchungen sowie nähere Informationen bin ich jederzeit für Sie per Mail oder per Telefon erreichbar.
 
-img: "img/pom1a.jpg"
