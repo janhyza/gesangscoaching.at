@@ -18,7 +18,7 @@ header-img: "img/home-bg.jpg"
 
 
 <br/>
-## JÁN HYŽA - Theater oProti Slowakei - NEBE NA ZEMI
+## JÁN HYŽA - Theater oProti Slowakei
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YEtQy_lCfyE" frameborder="0" allowfullscreen></iframe>" 
