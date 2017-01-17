@@ -2,8 +2,10 @@
 layout: page
 title: "Kontakt"
 description: ""
-header-img: "img/home-bg.jpg"
+header-img: "img/kontakt.jpg"
 ---
+## EMAIL
+musical.gesang@gmail.com 
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
-	
+## MOBIL
++43 677 617 00 518
