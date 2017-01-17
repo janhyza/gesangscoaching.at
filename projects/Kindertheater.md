@@ -21,4 +21,4 @@ Die Aufführung dauert ca. 40 Minuten.
 Für Buchungen sowie nähere Informationen bin ich jederzeit für Sie per Mail oder per Telefon erreichbar.
 [KONTAKT](http://gesangscoaching.at/contact/)
 
-<img src="img/pom1a.jpg" width="60" height="100" align="left">
+img: "img/pom1a.jpg"
