@@ -12,7 +12,7 @@ Wisst Ihr, wer Pompom ist? Wie er aussieht? Das weiß eigentlich niemand so rich
 Aha, wer ist wieder dieser Arthur Knödel? 
 Er ist so ein großer blauer Vogel, der ganz vergessen hat wie fliegen geht. Er muss jedoch über die Winterzeit nach Afrika so wie die meisten Zugvögel. Wie kommt er dort hin? Mit dem Auto? Mit dem Zug? Mit dem Flugzeug? Oder doch ganz anders?
 
-##für Pädagogen
+## für Pädagogen
 In  der Aufführung  werden  die Methoden  der  Dramapädagogik eingesetzt, die  es  ermöglichen, die Kinder  in  die  Geschichte  einzubinden.  Weiters  vertiefen  sie  die Perzeption  der  Fabel,  helfen  bei der Fantasieentwicklung und die Kinder lernen zu kooperieren. Bei der Umsetzung der Methoden der  Dramapädagogik  werden  die motorischen,  kreativen, emotionalen,  ästhetischen  und  sozialen Faktoren einbezogen und aktiviert. 
 Das Zusammenspiel der Puppen und die Bildlichkeit des Theaters entwickeln die Achtsamkeit des Kindes, die Empathie, sowie auch kreatives und kritisches Denken.  Durch die Lieder in der Aufführung und die Mitarbeit der Kinder beim Singen werden positiv die Musikfertigkeitsentwicklung  (der  Rhythmus, die  Melodie, die  Musikperzeption)  beeinflusst  und  die Anspannung entfernt. 
 
