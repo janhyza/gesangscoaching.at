@@ -95,10 +95,10 @@ European Festival of Humour and Satire<br>
 2008 - 2010<br>
 
 ## Sprachen<br>
-deutsch<br>
-englisch<br>
-polnisch<br>
-tschechisch<br>
-slowakisch (Muttersprache)<br>
+Deutsch<br>
+Englisch<br>
+Polnisch<br>
+Tschechisch<br>
+Slowakisch (Muttersprache)<br>
 
 
