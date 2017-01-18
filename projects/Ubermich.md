@@ -8,12 +8,13 @@ category: Über mich
 
 ## Ausbildung
 2010 – 2013 
+
 Universität Konstantine Philosoph Nitra, Slowakei 
 Fakultät für Bildungswissenschaften - Musikdidaktik
 Bildungsniveau/ PhD.
 
 2006 – 2010 
-Janacek Muzikhochschule Brno, Tschechien 
+Janacek Musikhochschule Brno, Tschechien 
 Theater Fakultät - Musical Schauspielerberuf 
 Bildungsniveau/MgA.
 
