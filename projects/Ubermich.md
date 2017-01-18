@@ -94,11 +94,11 @@ European Festival of Humour and Satire<br>
 "Einschätzung - Die Entdecken des Jahres" für Schauspiel ...a za dvere!!!(Theater oProti)<br>
 2008 - 2010<br>
 
-## Sprachen
-deutsch
-englisch
-polnisch
-tschechisch
-slowakisch (Muttersprache)
+## Sprachen<br>
+deutsch<br>
+englisch<br>
+polnisch<br>
+tschechisch<br>
+slowakisch (Muttersprache)<br>
 
 
