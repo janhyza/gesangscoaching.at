@@ -7,19 +7,20 @@ category: Über mich
 ---
 
 ## Ausbildung
-2010 – 2013 
 
 Universität Konstantine Philosoph Nitra, Slowakei 
 Fakultät für Bildungswissenschaften - Musikdidaktik
 Bildungsniveau/ PhD.
+2010 – 2013 
 
-2006 – 2010 
 Janacek Musikhochschule Brno, Tschechien 
 Theater Fakultät - Musical Schauspielerberuf 
 Bildungsniveau/MgA.
+2006 – 2010 
 
-2008/2009 Ludwig Solski Theaterhochschule Krakow, Polen 
+Ludwig Solski Theaterhochschule Krakow, Polen 
 Vokal Schauspielerberuf 
+2008/2009
 
 ## Lehrpraxis
 seit 2017
