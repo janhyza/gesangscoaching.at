@@ -2,7 +2,7 @@
 layout: page
 title: "Referenzen"
 description: "Meine Absolventen - Meine Arbeit"
-header-img: "img/home-bg.jpg"
+header-img: "img/ples.jpg"
 ---
 
 ## NIKOLA ĎURICOVÁ
