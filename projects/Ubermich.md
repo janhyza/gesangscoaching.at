@@ -6,95 +6,93 @@ header-img: "img/ja1.jpg"
 category: Über mich
 ---
 
-## Ausbildung
-2010 – 2013 <br>
+## Ausbildung<br>
 Universität Konstantine Philosoph Nitra, Slowakei <br>
 Fakultät für Bildungswissenschaften - Musikdidaktik <br>
 Bildungsniveau/ PhD.<br>
+2010 – 2013 <br>
 
-2006 – 2010 <br>
 Janacek Musikhochschule Brno, Tschechien <br>
 Theater Fakultät - Musical Schauspielerberuf <br>
 Bildungsniveau/MgA.<br>
+2006 – 2010 <br>
 
-2008/2009
 Ludwig Solski Theaterhochschule Krakow, Polen <br>
 Vokal Schauspielerberuf <br>
+2008/2009 <br>
 
-## Lehrpraxis
-seit 2017
-Vocasa Music, Wien, Österreich
-Gesangslehrer
+## Lehrpraxis<br>
+Vocasa Music, Wien, Österreich<br>
+Gesangslehrer<br>
+seit 2017<br>
 
-seit 2016
-Musikhochschule Bratislava Theater Fakultät 
-Gesangslehrer
+Musikhochschule Bratislava Theater Fakultät <br>
+Gesangslehrer<br>
+seit 2016<br>
 
-2012 - 2016
-Konservatorium Bratislava, Slowakei
-Gesangslehrer
+Konservatorium Bratislava, Slowakei<br>
+Gesangslehrer<br>
+2012 - 2016<br>
 
-2012 - 2015
-Musical Akademie Bratislava, Slowakei
-Gesangslehrer
+Musical Akademie Bratislava, Slowakei<br>
+Gesangslehrer<br>
+2012 - 2015<br>
 
-2011 -2012
-Privat Konservatorium Nitra, Slowakei
-Gesangslehrer
+Privat Konservatorium Nitra, Slowakei<br>
+Gesangslehrer<br>
+2011 -2012<br>
 
-## Theater, Film und Sängerpraxis
-seit 2008 
-Theater oProti
-Schauspieler, Musical Darsteller, Manager 
-Schauspiel Pena dní
-Schauspiel a za dvere!!!
-Revue Nebe na zemi
+## Theater, Film und Sängerpraxis<br>
+Theater oProti<br>
+Schauspieler, Musical Darsteller, Manager <br>
+Schauspiel Pena dní<br>
+Schauspiel a za dvere!!!<br>
+Revue Nebe na zemi<br>
+seit 2008 <br>
 
-2015 - 2016
-Seriendarsteller
-Rodinné prípady (TV Markiza), Slowakei
-Pravdivé príbehy (TV RTVS), Slowakei
-Rodinné záležitosti (TV JOJ), Slowakei
+Seriendarsteller<br>
+Rodinné prípady (TV Markiza), Slowakei<br>
+Pravdivé príbehy (TV RTVS), Slowakei<br>
+Rodinné záležitosti (TV JOJ), Slowakei<br>
+2015 - 2016<br>
 
-2011
-Musical Darsteller
-Theater Nova Scéna Bratislava, Slowakei
-Čo sa skrýva za Novou scénou
+Musical Darsteller<br>
+Theater Nova Scéna Bratislava, Slowakei<br>
+Čo sa skrýva za Novou scénou<br>
+2011 <br>
 
-2011
-Tanz der Vampire -  UKF Nitra, Slowakei
-Musical Darsteller
-Rolle/ Graf von Krolock
+Tanz der Vampire -  UKF Nitra, Slowakei<br>
+Musical Darsteller<br>
+Rolle/ Graf von Krolock<br>
+2011<br>
 
-2010 - 2013
-Theater HUSA NA PROVÁZKU Brno, Tschechien
-Schauspieler, Musikarrangement
-Psí hvězda
+Theater HUSA NA PROVÁZKU Brno, Tschechien<br>
+Schauspieler, Musikarrangement<br>
+Psí hvězda<br>
+2010 - 2013<br>
 
-2010
-Rock und philharmonisch Konzerte HRADOLOGIE 2010
+Rock und philharmonisch Konzerte HRADOLOGIE 2010<br>
+2010<br>
 
-2009
-Theater Studio Marta JAMU Brno, Tschechien
-Musical Darsteller
-Musical Konzert Drž hubu a krok 
-Musical Gentlemans
-Schauspiel Udav se katedrálou 
-Schauspiel Událost v městečku Goga
+Theater Studio Marta JAMU Brno, Tschechien<br>
+Musical Darsteller<br>
+Musical Konzert Drž hubu a krok <br>
+Musical Gentlemans<br>
+Schauspiel Udav se katedrálou <br>
+Schauspiel Událost v městečku Goga<br>
+2009<br>
 
-2008 - 2010
-Nationaltheater Brno, Tschechien 
-Chorsänger - Company
-Oper Julliete
-Oper Macbeth
-Operrete Za operetou kolem světa
+Nationaltheater Brno, Tschechien <br>
+Chorsänger - Company<br>
+Oper Julliete<br>
+Oper Macbeth<br>
+Operrete Za operetou kolem světa<br>
+2008 - 2010<br>
 
-## Einschätzungen
-
-2015
-European Festival of Humour and Satire
-"Einschätzung - Die Entdecken des Jahres" für Schauspiel ...a za dvere!!!(Theater oProti)
-
+## Einschätzungen<br>
+European Festival of Humour and Satire<br>
+"Einschätzung - Die Entdecken des Jahres" für Schauspiel ...a za dvere!!!(Theater oProti)<br>
+2008 - 2010<br>
 
 
 
