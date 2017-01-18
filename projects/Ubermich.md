@@ -89,9 +89,9 @@ Oper Macbeth<br>
 Operrete Za operetou kolem světa<br>
 2008 - 2010<br>
 
-## Einschätzungen<br>
+## Auszeichnungen<br>
 European Festival of Humour and Satire<br>
-"Einschätzung - Die Entdecken des Jahres" für Schauspiel ...a za dvere!!!(Theater oProti)<br>
+"Auszeichnung - Die Entdeckung des Jahres" für Schauspiel ...a za dvere!!!(Theater oProti)<br>
 2008 - 2010<br>
 
 ## Sprachen<br>
