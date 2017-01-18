@@ -88,6 +88,11 @@ Oper Julliete
 Oper Macbeth
 Operrete Za operetou kolem světa
 
+## Einschätzungen
+
+2015
+European Festival of Humour and Satire
+"Einschätzung - Die Entdecken des Jahres" für Schauspiel ...a za dvere!!!(Theater oProti)
 
 
 
