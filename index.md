@@ -3,6 +3,18 @@ layout: page
 ---
 <h1>SEITE IM UMBAU</h1>
 
+{% include image.html
+  img="img/DSC0438.jpg"
+  title="IM UMBAU"
+  caption=""
+  url="http://gesangscoaching.at/img/DSC0438.jpg"
+  width="200px"
+  align="center"
+  float="false"
+  border="1px"
+%}
+
+![IM UMBAU](img/DSC0438.jpg)
 
 
 <!--
