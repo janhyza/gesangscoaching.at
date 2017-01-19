@@ -6,12 +6,12 @@ header-img: "img/ruka.jpg"
 ---
 
 ## GESANGSUNTERRICHT
-Als Gesangslehrer und Musicaldarsteller habe ich viel Erfahrung aus Theater, Konservatorium sowie Musik Universität. Es ist ganz egal, ob du Profi oder Anfänger bist, Kind oder Erwachsener. Anfangen mit dem Singen kannst du immmer! Ich arbeite individuell mit jedem Studenten. Wir werden zusammen herausfinden, was du genau für deine Stimmbildung brauchst.  Willst du MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen? Dann bist du [HIER](http://gesangscoaching.at/contact/) richtig. 
+Als Gesangslehrer und Musicaldarsteller habe ich viel Erfahrung aus Theater, Konservatorium sowie Musik Universität. Es ist ganz egal, ob du Profi oder Anfänger bist, Kind oder Erwachsener. Anfangen mit dem Singen kannst du immer! Ich arbeite individuell mit jedem Studenten. Wir werden zusammen herausfinden, was du genau für deine Stimmbildung brauchst.  Willst du MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen? Dann bist du [HIER](http://gesangscoaching.at/contact/) richtig. 
 
 ## Gratis Schnupperstunde
 Beim Gesangsunterricht ist die Beziehung zwischen Lehrer und Studenten sehr ausschlaggebend. Dazu ist es wichtig den passenden Gesangslehrer zu finden. Dafür gibt es die Schnupperstunde kostenlos. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie deine Stimmbildung aussehen kann. [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
 
-## Stimmbildung - Moderne Gesangstimme bilden
+## Stimmbildung - Moderne Gesangsstimme bilden
 Deine Stimme ist beim Gesang dein Musikinstrument. Um dieses Musikinstrument zu beherrschen musst du die Gesangstechnik meistern. Dazu dient Gesangsunterricht. Aber keine Sorge, es ist nicht nur trockenes Gesangsübungen machen. Wir werden gemeinsam passende Lieder für dich suchen und du wirst deine Stimme und Gesangstechnik durch diese Lieder entwicklen. Welche Bereiche werden wir gemeinsam ausbauen? ATEMTECHNIK, DEINE MUSIKALITÄT, KLANGFARBE, KÖRPER-SUPPORT, INTONATION, AUSPRACHE, PHRASING, MIXING, STAGING, SINGEN MIT DEM MIKROPHON ...
 
 ## Song-Interpretation - Dein künstlerischer Stil
