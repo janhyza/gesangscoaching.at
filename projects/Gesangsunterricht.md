@@ -6,16 +6,16 @@ header-img: "img/ruka.jpg"
 ---
 
 ## GESANGSUNTERRICHT
-Als Gesangslehrer und Musicaldarsteller habe ich viele Ehfahrungen von Theater, Konservatorium oder Musik Universität. Es ist ganz egall, ob du Profi oder Anfänger bist, Kind oder Erwachsene. Anfangen mit dem Singen kannst du immmer! Ich arbeite individuelle mit jedem Student. Wir werden zusammen suchen, was du genau beim deinen Stimmebildung brauchst.  Willst du MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen? Dann bist du hier richtig. 
+Als Gesangslehrer und Musicaldarsteller habe ich viel Erfahrung aus Theater, Konservatorium sowie Musik Universität. Es ist ganz egal, ob du Profi oder Anfänger bist, Kind oder Erwachsener. Anfangen mit dem Singen kannst du immmer! Ich arbeite individuell mit jeden Studenten. Wir werden zusammen herausfinden, was du genau für diene Stimmebildung brauchst.  Willst du MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen? Dann bist du hier richtig. 
 
 ## Gratis Schnupperstunde
-Beim Gesang ist die Beziehung zwischen dem Lehrer und Studenten und es ist genuaso wichtig einen passenden Gesangslehrer finden. Deshalb ist die Schnupperstunde kostenlos. Da können wir kennenlernen und du wirdst sehen, wie die Arbeit beim Stimmebildung aussieht. [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
+Beim Gesang ist die Beziehung zwischen Lehrer und Studenten sehr ausschlaggebend. Dazu ist es wichtig den passenden Gesangslehrer zu finden. Dafür gibt es die Schnupperstunde kostenlos. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie deine Stimmebildung aussehen kann. [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
 
 ## Stimmebildung - Moderne Gesangstimme bilden
-Deine Stimme ist beim Gesang dein Musikinstrument und um diesen Musikinstrument zu beherrschen müsst du die Gesangstechnik gut meistern. Dazu dienst Gesangsunterricht. Aber keine Sorgen, es ist nicht nur Gesangsüben machen. Wir werden gemeinsam passende Liedern für dich suchen und du wirdst deine Stimme und Gesangstechnik auch durch der Liedern entwicklen. Und welche Bereiche werden wir gemeinsam ausbauen? ATEMTECHNIK, DEINE MUSIKALITÄT,KLANGFARBE, KÖRPER-SUPPORT, INTONATION, AUSPRACHE, PHRASING, MIXING, STAGING, SINGEN MIT DEM MIKROPHON ...
+Deine Stimme ist beim Gesang dein Musikinstrument. Um dieses Musikinstrument zu beherrschen musst du die Gesangstechnik meistern. Dazu dient Gesangsunterricht. Aber keine Sorge. Es ist nicht nur trockenes Gesangsübungen machen. Wir werden gemeinsam passende Lieder für dich suchen und du wirst deine Stimme und Gesangstechnik auch durch diese Lieder entwicklen. Welche Bereiche werden wir gemeinsam ausbauen? ATEMTECHNIK, DEINE MUSIKALITÄT, KLANGFARBE, KÖRPER-SUPPORT, INTONATION, AUSPRACHE, PHRASING, MIXING, STAGING, SINGEN MIT DEM MIKROPHON ...
 
-## Song-Interpretation - Dein künstlerische Stil
-Für Sänger ist sehr wichtig sein eigenes Stil. Es ist egall, ob du Musical, Pop, Chanson, Jazz, Rock, oder RnB singen möchtest. Immer solltest du dein Stil haben. Deine Zuhörerschaft sollten dich immer beim dein Gesang-Stil erkennen. In meinem Disserationsforschung habe ich Song-iterpretation Technik entwicklet, die dir immer beim Staging deine Liedern und Gesang-Stil Bildung hilfen kann. 
+## Song-Interpretation - Dein künstlerischer Stil
+Für Sänger ist sehr notwendig seinen eigenen Stil zu entwickeln. Es ist egal, ob du Musical, Pop, Chanson, Jazz, Rock, oder RnB singen möchtest. Du solltest deinen eigenen Stil haben. Deine Zuhörer sollten dich immer bei deinem Gesangsstil erkennen. In meiner Disserationsforschung habe ich Song-Interpretationstechnik entwickelt, die dir immer beim Staging deine Lieder und Gesang-Stil Bildung hilfen kann. 
 
 ## Hobby - Singen
 Willst du kein Profi sein? Singen macht dir Spaß und es ist für dich die Form der Relaxation? Dann bist hier auch richtig. Beim Singen kannst auf deine alltägige vergessen und neue Wege der Selbstentfaltung finden.
