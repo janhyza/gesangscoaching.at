@@ -20,8 +20,8 @@ Für jeden Sänger ist es notwendig seinen eigenen Stil zu entwickeln. Dabei ist
 ## Hobby - Singen
 Du bist kein Profi? Aber singen macht dir Spaß und es ist für dich die Form der Entspannug und das Ausgleichs? Auch dann bist du [HIER](http://gesangscoaching.at/contact/) richtig. Während des Singens kannst du unter anderem sämtliche Sorgen vergessen und dabei einen Weg zur Selbstentfaltung finden.
 
-## Vorbereitung für Aufnahmeprüfung 
-Willst du an einem Konservatorium oder einer Musik Universität studieren? Kein Problem! Ich biete auch Aufnahmeprüfungsvorbereitungen an. Bis heute waren alle meine Studenten 100% erfolgreich. Ich bereite dich nicht nur auf die Gesangsprüfung vor, ich gebe dir auch viele Tipps, wie du zum Beispiel mit Lampenfieber umgehen kannst. 
+## Vorbereitung für Aufnahmeprüfung  
+Willst du dich an einem Konservatorium oder einer Musik Universität bewerben? Kein Problem! Ich biete auch Prüfungsvorbereitungen an. Bis jetzt waren alle meine Studenten zu 100% erfolgreich. Ich bereite dich nicht nur auf die Gesangsprüfung vor, ich gebe dir auch Tipps, wie du zum Beispiel mit Lampenfieber, Nervosität,etc. umgehst. 
 
 ## Preise, Zeiten und Pakete
 Du kannst selbst wählen, wie oft pro Monat du Gesangsunterricht nehmen möchtest. Die Zeiten sind immer flexibel und du kannst singen, wann es für dich passt. [PREISE UND PAKETE INFO](http://gesangscoaching.at/contact/)
