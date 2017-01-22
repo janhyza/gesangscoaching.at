@@ -7,15 +7,11 @@ header-img: "img/pom1a.jpg"
 ## DAS GROßE ARTHUR KNÖDEL REISEABENTEUER
 
 Interaktive Aufführung mit  Liedern und Puppen für Kinder im Alter von 3 bis 7 Jahren. 
-
 Wisst Ihr, wer Pompom ist? Wie er aussieht? <br>
-
 Das weiß eigentlich niemand so richtig, weil er sich immer wieder anders verwandeln kann! <br>
 Aber wir werden ihn sehen! <br>
 Und nicht nur das. Pompom wird uns eine Geschichte über Arthur Knödel erzählen. <br>
-
 Aha, wer ist wieder dieser Arthur Knödel? <br>
-
 Er ist so ein großer blauer Vogel, der ganz vergessen hat wie fliegen geht. Er muss jedoch über die Winterzeit nach Afrika so wie die meisten Zugvögel. Wie kommt er dort hin? Mit dem Auto? Mit dem Zug? Mit dem Flugzeug? Oder doch ganz anders?
 
 ## Für Pädagogen
