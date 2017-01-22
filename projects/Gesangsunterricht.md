@@ -16,7 +16,9 @@ Ob du nun MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen willst, dann bist du
 Beim Gesangsunterricht ist das Vertrauen zwischen Coach und Interessierten ausschlaggebend. Dazu ist es wichtig den passenden Coach zu finden. Daher gibt es die Schnupperstunde kostenlos. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie sich deine Stimmbildung entwickeln könnte. [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
 
 ## Stimmbildung - Moderne Gesangsstimme formen
-Beim Gesang ist die Stimme dein Instrument. Um dieses Instrument zu beherrschen, ist es erforderlich die Gesangstechnik zu perfektionieren. Dazu dient Gesangsunterricht. Aber keine Sorge, beim Gesangsunterricht geht es nicht nur um trockene Übungen, sondern dich in deinen Gesangsfähigkeiten zu unterstützten und zu fördern. Wir werden gemeinsam passende Stücke für dich suchen und finden, wobei du deine Stimme und Gesangstechnik entwicklen kannst. Bereiche, die wir gemeinsam ausbauen können sind unter anderem: ATEMTECHNIK, DEINE MUSIKALITÄT, KLANGFARBE, KÖRPER-SUPPORT, INTONATION, AUSPRACHE, PHRASING, MIXING, STAGING, MIKROFONGESANG ...
+Beim Gesang ist die Stimme dein Instrument. <br>
+
+Um dieses Instrument zu beherrschen, ist es erforderlich die Gesangstechnik zu perfektionieren. Dazu dient Gesangsunterricht. Aber keine Sorge, beim Gesangsunterricht geht es nicht nur um trockene Übungen, sondern dich in deinen Gesangsfähigkeiten zu unterstützten und zu fördern. Wir werden gemeinsam passende Stücke für dich suchen und finden, wobei du deine Stimme und Gesangstechnik entwicklen kannst. Bereiche, die wir gemeinsam ausbauen können sind unter anderem: ATEMTECHNIK, DEINE MUSIKALITÄT, KLANGFARBE, KÖRPER-SUPPORT, INTONATION, AUSPRACHE, PHRASING, MIXING, STAGING, MIKROFONGESANG ...
 
 ## Song-Interpretation - Dein künstlerischer Stil
 Für jeden Sänger ist es notwendig seinen eigenen Stil zu entwickeln. <br>
@@ -24,6 +26,7 @@ Dabei ist nicht wichtig, ob du Musical, Pop, Chanson, Jazz, Rock, oder RnB singe
 
 ## Hobby - Singen
 Du bist kein Profi? <br>
+
 Aber singen macht dir Spaß und es ist für dich eine Form der Entspannug und des Ausgleichs? Auch dann bist du [HIER](http://gesangscoaching.at/contact/) richtig. Während des Singens kannst du unter anderem sämtliche Sorgen vergessen und dabei einen Weg zur Selbstentfaltung finden.
 
 ## Vorbereitung für Aufnahmeprüfung  
