@@ -18,7 +18,7 @@ Die Stimme ist beim Gesang dein Instrument. Um dieses Instrument zu beherrschen 
 Für jeden Sänger ist es notwendig seinen eigenen Stil zu entwickeln. Dabei ist nicht wichtig, ob du Musical, Pop, Chanson, Jazz, Rock, oder RnB singen möchtest. Du solltest deinen eigenen Stil entwickeln. Deine Zuhörer sollen dich immer an deinem Gesangsstil erkennen. Während meiner Disserationsforschung (2013 - Intepretation von Musicalsongs in Musikalisch-dramatischer Erziehung) habe ich die Song-Interpretationstechnik entwickelt. Welche dir beim Staging der Lieder und der Gesangsstilbildung helfen können. 
 
 ## Hobby - Singen
-Du willst kein Profi sein? Singen macht dir Spaß und es ist für dich die Form der Relaxation? Auch dann bist du [HIER](http://gesangscoaching.at/contact/) richtig. Beim Singen kannst du deine alltäglichen Sorgen vergessen und neue Wege der Selbstentfaltung finden.
+Du bist kein Profi? Aber singen macht dir Spaß und es ist für dich die Form der Entspannug und das Ausgleichs? Auch dann bist du [HIER](http://gesangscoaching.at/contact/) richtig. Während des Singens kannst du unter anderem sämtliche Sorgen vergessen und dabei einen Weg zur Selbstentfaltung finden.
 
 ## Vorbereitung für Aufnahmeprüfung 
 Willst du an einem Konservatorium oder einer Musik Universität studieren? Kein Problem! Ich biete auch Aufnahmeprüfungsvorbereitungen an. Bis heute waren alle meine Studenten 100% erfolgreich. Ich bereite dich nicht nur auf die Gesangsprüfung vor, ich gebe dir auch viele Tipps, wie du zum Beispiel mit Lampenfieber umgehen kannst. 
