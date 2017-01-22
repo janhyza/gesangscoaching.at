@@ -23,6 +23,6 @@ Du bist kein Profi? Aber singen macht dir Spaß und es ist für dich die Form de
 ## Vorbereitung für Aufnahmeprüfung  
 Willst du dich an einem Konservatorium oder einer Musik Universität bewerben? Kein Problem! Ich biete auch Prüfungsvorbereitungen an. Bis jetzt waren alle meine Studenten zu 100% erfolgreich. Ich bereite dich nicht nur auf die Gesangsprüfung vor, ich gebe dir auch Tipps, wie du zum Beispiel mit Lampenfieber, Nervosität,etc. umgehst. 
 
-## Preise, Zeiten und Pakete
-Du kannst selbst wählen, wie oft pro Monat du Gesangsunterricht nehmen möchtest. Die Zeiten sind immer flexibel und du kannst singen, wann es für dich passt. [PREISE UND PAKETE INFO](http://gesangscoaching.at/contact/)
+## Zeiten, Pakete, Preise
+Du selbst kannst wählen, wie oft du Gesangsunterricht nehmen möchtest. Die Zeiten sind zumeist flexibel, somit steht einer individuellen Terminvereinbarung nichts im Wege. [PREISE UND PAKETE INFO](http://gesangscoaching.at/contact/)
 
