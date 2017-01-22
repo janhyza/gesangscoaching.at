@@ -6,7 +6,8 @@ header-img: "img/pom1a.jpg"
 ---
 ## DAS GROßE ARTHUR KNÖDEL REISEABENTEUER
 
-Interaktive Aufführung mit  Liedern und Puppen für Kinder im Alter von 3 bis 7 Jahren. 
+Interaktive Aufführung mit  Liedern und Puppen für Kinder im Alter von 3 bis 7 Jahren.<br>
+
 Wisst Ihr, wer Pompom ist? Wie er aussieht? <br>
 Das weiß eigentlich niemand so richtig, weil er sich immer wieder anders verwandeln kann! <br>
 Aber wir werden ihn sehen! <br>
