@@ -29,6 +29,7 @@ Aber singen macht dir Spaß und es ist für dich eine Form der Entspannug und de
 ## Vorbereitung für Aufnahmeprüfung  
 Willst du dich an einem Konservatorium oder einer Musik Universität bewerben? <br>
 Kein Problem! <br>
+
 Ich biete auch Prüfungsvorbereitungen an. Bis jetzt waren alle meine Studenten zu 100% erfolgreich. <br>
 Ich bereite dich nicht nur auf die Gesangsprüfung vor, ich gebe dir auch Tipps, wie du zum Beispiel mit Lampenfieber, Nervosität,etc. umgehst. 
 
