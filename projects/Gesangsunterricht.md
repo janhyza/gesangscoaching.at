@@ -7,7 +7,8 @@ header-img: "img/ruka.jpg"
 
 ## GESANGSUNTERRICHT
 Als Gesangslehrer und Musicaldarsteller habe ich viel Erfahrung aus dem Theaterbereich, dem Konservatorium sowie den Musik Universitäten mehrerer Länder und Fachbereiche. Es ist nicht wichtig, ob du Profi oder Anfänger bist, Kind oder Erwachsener, mit dem Singen anfangen kannst du immer! <br>
-Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Wir werden zusammen herausfinden, was du für deine Stimmbildung brauchst.  Ob du nun MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen willst, dann bist du bei [MIR](http://gesangscoaching.at/contact/) vollkommen richtig. 
+Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Wir werden zusammen herausfinden, was du für deine Stimmbildung benötigst.<br>
+Ob du nun MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen willst, dann bist du bei [MIR](http://gesangscoaching.at/contact/) vollkommen richtig. 
 
 ## Gratis Schnupperstunde
 Beim Gesangsunterricht ist das Vertrauen zwischen Coach und Interessierten ausschlaggebend. Dazu ist es wichtig den passenden Coach zu finden. Daher gibt es die Schnupperstunde kostenlos. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie sich deine Stimmbildung entwickeln kann. [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
