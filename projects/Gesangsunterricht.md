@@ -7,7 +7,9 @@ header-img: "img/ruka.jpg"
 
 ## GESANGSUNTERRICHT
 Als Gesangslehrer und Musicaldarsteller habe ich viel Erfahrung aus dem Theaterbereich, dem Konservatorium sowie den Musik Universitäten mehrerer Länder und Fachbereiche. Es ist nicht wichtig, ob du Profi oder Anfänger bist, Kind oder Erwachsener, mit dem Singen anfangen kannst du immer! <br>
+
 Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Wir werden zusammen herausfinden, was du für deine Stimmbildung benötigst.<br>
+
 Ob du nun MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen willst, dann bist du bei [MIR](http://gesangscoaching.at/contact/) vollkommen richtig. 
 
 ## Gratis Schnupperstunde
@@ -27,7 +29,8 @@ Aber singen macht dir Spaß und es ist für dich eine Form der Entspannug und de
 ## Vorbereitung für Aufnahmeprüfung  
 Willst du dich an einem Konservatorium oder einer Musik Universität bewerben? <br>
 Kein Problem! <br>
-Ich biete auch Prüfungsvorbereitungen an. Bis jetzt waren alle meine Studenten zu 100% erfolgreich. Ich bereite dich nicht nur auf die Gesangsprüfung vor, ich gebe dir auch Tipps, wie du zum Beispiel mit Lampenfieber, Nervosität,etc. umgehst. 
+Ich biete auch Prüfungsvorbereitungen an. Bis jetzt waren alle meine Studenten zu 100% erfolgreich. <br>
+Ich bereite dich nicht nur auf die Gesangsprüfung vor, ich gebe dir auch Tipps, wie du zum Beispiel mit Lampenfieber, Nervosität,etc. umgehst. 
 
 ## Zeiten, Pakete, Preise
 Du selbst kannst wählen, wie oft du Gesangsunterricht nehmen möchtest. Die Zeiten sind zumeist flexibel, somit steht einer individuellen Terminvereinbarung nichts im Wege. [PREISE UND PAKETE INFO](http://gesangscoaching.at/contact/)
