@@ -13,7 +13,8 @@ Das weiß eigentlich niemand so richtig, weil er sich immer wieder anders verwan
 Aber wir werden ihn sehen! <br>
 Und nicht nur das. Pompom wird uns eine Geschichte über Arthur Knödel erzählen. <br>
 Aha, wer ist wieder dieser Arthur Knödel? <br>
-Er ist ein großer blauer Vogel, der ganz vergessen hat wie fliegen geht. Er muss jedoch über die Winterzeit nach Afrika so wie die meisten Zugvögel. Wie kommt er dort hin? Mit dem Auto? Mit dem Zug? Mit dem Flugzeug? Oder doch ganz anders?
+Er ist ein großer blauer Vogel, der ganz vergessen hat wie fliegen geht. <br>
+Er muss jedoch über die Winterzeit nach Afrika so wie die meisten Zugvögel. Wie kommt er dort hin? Mit dem Auto? Mit dem Zug? Mit dem Flugzeug? Oder doch ganz anders?
 
 ## Für Pädagogen
 In  der Aufführung  werden  die Methoden  der  Theaterpädagogik eingesetzt, die  es  ermöglichen, die Kinder  in  die  Geschichte  einzubeziehen. <br>
