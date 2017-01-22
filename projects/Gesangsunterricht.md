@@ -17,7 +17,6 @@ Beim Gesangsunterricht ist das Vertrauen zwischen Coach und Interessierten aussc
 
 ## Stimmbildung - Moderne Gesangsstimme formen
 Beim Gesang ist die Stimme dein Instrument. <br>
-
 Um dieses Instrument zu beherrschen, ist es erforderlich die Gesangstechnik zu perfektionieren. Dazu dient Gesangsunterricht. Aber keine Sorge, beim Gesangsunterricht geht es nicht nur um trockene Übungen, sondern dich in deinen Gesangsfähigkeiten zu unterstützten und zu fördern. Wir werden gemeinsam passende Stücke für dich suchen und finden, wobei du deine Stimme und Gesangstechnik entwicklen kannst. Bereiche, die wir gemeinsam ausbauen können sind unter anderem: ATEMTECHNIK, DEINE MUSIKALITÄT, KLANGFARBE, KÖRPER-SUPPORT, INTONATION, AUSPRACHE, PHRASING, MIXING, STAGING, MIKROFONGESANG ...
 
 ## Song-Interpretation - Dein künstlerischer Stil
@@ -26,7 +25,6 @@ Dabei ist nicht wichtig, ob du Musical, Pop, Chanson, Jazz, Rock, oder RnB singe
 
 ## Hobby - Singen
 Du bist kein Profi? <br>
-
 Aber singen macht dir Spaß und es ist für dich eine Form der Entspannug und des Ausgleichs? Auch dann bist du [HIER](http://gesangscoaching.at/contact/) richtig. Während des Singens kannst du unter anderem sämtliche Sorgen vergessen und dabei einen Weg zur Selbstentfaltung finden.
 
 ## Vorbereitung für Aufnahmeprüfung  
@@ -37,5 +35,6 @@ Ich biete auch Prüfungsvorbereitungen an. Bis jetzt waren alle meine Studenten 
 Ich bereite dich nicht nur auf die Gesangsprüfung vor, ich gebe dir auch Tipps, wie du zum Beispiel mit Lampenfieber, Nervosität,etc. umgehst. 
 
 ## Zeiten, Pakete, Preise
-Du selbst kannst wählen, wie oft du Gesangsunterricht nehmen möchtest. Die Zeiten sind zumeist flexibel, somit steht einer individuellen Terminvereinbarung nichts im Wege. [PREISE UND PAKETE INFO](http://gesangscoaching.at/contact/)
+Du selbst kannst wählen, wie oft du Gesangsunterricht nehmen möchtest. <br>
+Die Zeiten sind zumeist flexibel und somit steht einer individuellen Terminvereinbarung nichts im Wege. [MEHR INFO](http://gesangscoaching.at/contact/)
 
