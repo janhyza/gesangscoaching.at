@@ -27,3 +27,14 @@ Für Buchungen sowie nähere Informationen bin ich jederzeit für Sie per Mail o
 [KONTAKT](http://gesangscoaching.at/contact/)
 
 
+{% include image.html
+  img="img/DSC0438.jpg"
+  title="IM UMBAU"
+  caption=""
+  url="http://gesangscoaching.at/img/arthur 4.jpg"
+  width="200px"
+  align="center"
+  float="false"
+  border="1px"
+%}
+
