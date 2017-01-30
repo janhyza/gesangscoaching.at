@@ -28,10 +28,10 @@ Für Buchungen sowie nähere Informationen bin ich jederzeit für Sie per Mail o
 
 
 {% include image.html
-  img="img/arthur 4.jpg"
+  img="img/arthur4.jpg"
   title=""
   caption=""
-  url="http://gesangscoaching.at/img/arthur 4.jpg"
+  url="http://gesangscoaching.at/img/arthur4.jpg"
   width="200px"
   align="left"
   float="false"
