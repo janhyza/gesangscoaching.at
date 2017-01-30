@@ -50,3 +50,66 @@ Für Buchungen sowie nähere Informationen bin ich jederzeit für Sie per Mail o
   border="1px"
 %}
 
+<table border="0" cellpadding="0">	
+  <caption><strong>Fotos</strong>
+  </caption>	
+  <center>	
+    <tbody>		
+      <tr>			
+        <td class="rtecenter" width="100%">
+          <img _fcksavedurl="http://gesangscoaching.at/img/arthur4.jpg" height="264" name="photoslider" src="http://gesangscoaching.at/img/arthur4.jpg" width="400" /></td>		
+      </tr>		
+      <tr>			
+        <td width="100%">			
+          <form method="POST" name="rotater">			
+            <div align="center">			
+              <center>			
+                <p>
+<script language="JavaScript1.1">
+var photos=new Array()
+var text=new Array()
+var which=0
+var what=0
+//Change the below variables to reference your own images. You may have as many images in the slider as you wish
+photos[0]="http://gesangscoaching.at/img/arthur3.jpg"        
+photos[1]="http://gesangscoaching.at/img/arthur1.jpg"   
+//change coresponding description
+window.onload=new Function("document.rotater.description.value=text[0]")
+function backward(){
+if (which>0){
+window.status=''
+which--
+document.images.photoslider.src=photos[which];
+what--
+document.rotater.description.value=text[what];
+}
+}
+function forward(){
+if (which<photos.length-1){
+which++
+document.images.photoslider.src=photos[which]
+what++
+document.rotater.description.value=text[what];
+}
+else window.status='Koniec galérie'
+}
+function type()
+    {
+    alert("This textbox will only display default comments")
+    }
+</script>
+                </p>
+              </center>			
+              <p class="rtecenter">
+                <input name="description" size="50" style="width:400px" type="text" />
+              </p>			
+              <p>
+                <input name="B2" onclick="backward()" type="button" value="&lt;&lt; Späť" /> 
+                <input name="B1" onclick="forward()" type="button" value="Ďaľšia &gt;&gt;" />
+              </p>			
+  </center>			
+  </div>			
+  </form>			</td>		
+  </tr>	
+  </tbody>
+</table>
