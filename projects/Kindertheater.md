@@ -35,6 +35,7 @@ Für Buchungen sowie nähere Informationen bin ich jederzeit für Sie per Mail o
   width="200px"
   align="left"
   float="false"
+  position="absolute"
   border="1px"
 %}
 
