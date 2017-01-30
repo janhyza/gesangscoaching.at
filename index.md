@@ -14,7 +14,7 @@ layout: page
   border="1px"
 %}
 
-![IM UMBAU](img/DSC0438.jpg)
+
 
 
 <!--
