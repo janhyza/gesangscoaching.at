@@ -31,7 +31,7 @@ Für Buchungen sowie nähere Informationen bin ich jederzeit für Sie per Mail o
 <p>Fotos.</p>
 
 <div id="reference">
-        <a href="img/arthur3.jpg" title=""><img src="http://gesangscoaching.at/img/arthur3.jpg" alt=""  border="1px"/></a>
+        <a href="img/arthur3.jpg" title=""><img src="http://gesangscoaching.at/img/arthur3.jpg" alt="" height=”50” a width=”70” border="1px"/></a>
         <a href="img/arthur4.jpg" title=""><img src="http://gesangscoaching.at/img/arthur4.jpg" alt=""  border="1px"/></a>
         <a href="img/arthur1.jpg" title=""><img src="http://gesangscoaching.at/img/arthur1.jpg" alt=""  border="1px"/></a>
 </div>
