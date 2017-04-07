@@ -1,7 +1,9 @@
 ---
 layout: page
 ---
-<h1>SEITE IM UMBAU</h1>
+<h1>Herzlich Willkommen</h1>
+
+
 
 {% include image.html
   img="img/DSC0438.jpg"
