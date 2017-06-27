@@ -5,10 +5,10 @@ layout: page
 
 ## Hrrzlich Willkommen!
 
-#Professionelle Gesangsunterricht für Erwachsene udn Kinder in Wien.
-
+Professionelle Gesangsunterricht für Erwachsene udn Kinder in Wien.
+<i>
 "Die Musik drückt aus, was nicht gesagt werden kann und worüber es unmöglich ist, zu schweigen."
-									Victor Marie Hugo
+									Victor Marie Hugo</i>
 	
 Singen macht einfach glücklich. Wenn man einmal damit eingefangen hat, kann man nicht aufhören.
 Es ist nicht wichtig, ob du Profi oder Anfänger bist, Kind oder Erwachsener, mit dem Singen anfangen kannst du immer! 
