@@ -24,7 +24,7 @@ Vokal Schauspielerberuf <br>
 ## Lehrpraxis<br>
 Vocasa Music, Wien, Österreich<br>
 Gesangslehrer<br>
-seit 2017<br>
+bis Juni 2017<br>
 
 Musikhochschule Bratislava Theater Fakultät <br>
 Gesangslehrer<br>
