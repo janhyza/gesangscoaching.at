@@ -3,7 +3,22 @@ layout: page
 ---
 <h1>Herzlich Willkommen</h1>
 
+## Hrrzlich Willkommen!
 
+#Professionelle Gesangsunterricht für Erwachsene udn Kinder in Wien.
+
+"Die Musik drückt aus, was nicht gesagt werden kann und worüber es unmöglich ist, zu schweigen."
+									Victor Marie Hugo
+	
+Singen macht einfach glücklich. Wenn man einmal damit eingefangen hat, kann man nicht aufhören.
+Es ist nicht wichtig, ob du Profi oder Anfänger bist, Kind oder Erwachsener, mit dem Singen anfangen kannst du immer! 
+Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Wir werden zusammen herausfinden, was du für deine Stimmbildung benötigst.
+Ob du nun MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen willst, dann bist du bei mir vollkommen richtig.
+Ich freue mich auf dich.
+
+
+	
+<!--
 
 {% include image.html
   img="img/DSC0438.jpg"
