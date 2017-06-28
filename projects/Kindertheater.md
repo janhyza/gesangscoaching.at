@@ -24,13 +24,18 @@ Das Zusammenspiel der Puppen und die Bildlichkeit des Theaters entwickeln die Ac
 Die Aufführung dauert ca. 40 Minuten.  
 
 Für Buchungen sowie nähere Informationen bin ich jederzeit für Sie per Mail oder per Telefon erreichbar.
+
 [KONTAKT](http://gesangscoaching.at/contact/)
 
+### Fotos.
 
-
-<p>Fotos.</p>
-
-<div id="reference">
-        <a href="img/arthur3.jpg" title=""><img src="http://gesangscoaching.at/img/arthur3.jpg" alt=""  border="1px"/></a>
-        
-
+{% include image.html
+  img="img/arthur3.jpg"
+  title=""
+  caption=""
+  url="http://gesangscoaching.at/img/arthur3.jpg"
+  width="200px"
+  align="center"
+  float="false"
+  border="1px"
+%}
