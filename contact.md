@@ -14,5 +14,5 @@ musical.gesang@gmail.com<br>
 Ján Hyža<br>
 Lößlweg 8/4/16<br>
 1020 Wien<br>
-info@gesangscoaching.at <br>
+musical.gesang@gmail.com <br>
 Gesangslehrer<br>
