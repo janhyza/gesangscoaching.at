@@ -4,12 +4,12 @@ layout: page
 <h1>Herzlich Willkommen</h1>
 
 
-<b>Professioneller Gesangsunterricht für Erwachsene und Kinder in Wien.<b>
+Professioneller Gesangsunterricht für Erwachsene und Kinder in Wien.
 
 <br>
 <i>
 "Die Musik drückt aus, was nicht gesagt werden kann und worüber es unmöglich ist, zu schweigen."</i> <br>
-									Victor Marie Hugo<br>
+				<BLOCKQUOTE>	<BLOCKQUOTE>	<BLOCKQUOTE>Victor Marie Hugo<br> </BLOCKQUOTE>
 									<br><br>
 	
 Singen macht einfach glücklich. <br>
