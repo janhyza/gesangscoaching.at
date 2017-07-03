@@ -4,7 +4,7 @@ layout: page
 <h1>Herzlich Willkommen</h1>
 
 
-<strong>Professioneller Gesangsunterricht für Erwachsene und Kinder in Wien.<strong>
+<b>Professioneller Gesangsunterricht für Erwachsene und Kinder in Wien.<b>
 
 <br>
 <i>
