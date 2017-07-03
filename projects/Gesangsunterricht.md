@@ -12,8 +12,8 @@ Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Wir w
 
 Ob du nun MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen willst, dann bist du bei [MIR](http://gesangscoaching.at/contact/) vollkommen richtig. 
 
-## Gratis Schnupperstunde
-Beim Gesangsunterricht ist das Vertrauen zwischen Coach und Interessierten ausschlaggebend. Dazu ist es wichtig den passenden Coach zu finden. Daher gibt es die Schnupperstunde kostenlos. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie sich deine Stimmbildung entwickeln könnte. [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
+## Schnupperstunde
+Beim Gesangsunterricht ist das Vertrauen zwischen Coach und Interessierten ausschlaggebend. Dazu ist es wichtig den passenden Coach zu finden. Daher gibt es die Schnupperstunde. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie sich deine Stimmbildung entwickeln könnte. [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
 
 ## Stimmbildung - Moderne Gesangsstimme formen
 Beim Gesang ist die Stimme dein Instrument. <br>
