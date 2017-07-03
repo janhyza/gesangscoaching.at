@@ -27,7 +27,7 @@ Für Buchungen sowie nähere Informationen bin ich jederzeit für Sie per Mail o
 
 [KONTAKT](http://gesangscoaching.at/contact/)
 
-### Fotos.
+
 
 {% include image.html
   img="img/arthur3.jpg"
