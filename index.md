@@ -9,9 +9,8 @@ Professioneller Gesangsunterricht für Erwachsene und Kinder in Wien.
 <br>
 <i>
 "Die Musik drückt aus, was nicht gesagt werden kann und worüber es unmöglich ist, zu schweigen."</i> <br>
-						Victor Marie Hugo<br>
+<div align="right">  Victor Marie Hugo </div> 	<br>
 									<br><br>
-	
 Singen macht einfach glücklich. <br>
 Wenn man einmal damit eingefangen hat, kann man nicht aufhören.<br>
 Es ist nicht wichtig, ob du Profi oder Anfänger bist, Kind oder Erwachsener, mit dem Singen anfangen kannst du immer! 
