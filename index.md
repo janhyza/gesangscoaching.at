@@ -14,8 +14,8 @@ Professioneller Gesangsunterricht für Erwachsene und Kinder in Wien.
 	
 Singen macht einfach glücklich. <br>
 Wenn man einmal damit eingefangen hat, kann man nicht aufhören.<br>
-Es ist nicht wichtig, ob du Profi oder Anfänger bist, Kind oder Erwachsener, mit dem Singen anfangen kannst du immer! 
-Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Zusammen werden wir herausfinden, was du für deine Stimmbildung benötigst.<br>
+<p style="text-align: justify">Es ist nicht wichtig, ob du Profi oder Anfänger bist, Kind oder Erwachsener, mit dem Singen anfangen kannst du immer! 
+Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Zusammen werden wir herausfinden, was du für deine Stimmbildung benötigst</p>.<br>
 Ob du nun MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen willst, dann bist du bei mir vollkommen richtig.<br>
 <br>
 <br>
