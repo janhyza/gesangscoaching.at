@@ -13,10 +13,10 @@ header-img: "img/vc1.jpg"
 
 
 {% include image.html
-  img="img/arthur3.jpg"
+  img="img/raum 1.jpg"
   title=""
   caption=""
-  url="http://gesangscoaching.at/img/arthur3.jpg"
+  url="http://gesangscoaching.at/img/raum 1.jpg"
   align="center"
   float="false"
   border="1px"
