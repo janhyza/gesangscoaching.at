@@ -29,6 +29,7 @@ Regelmässing finden sich unsere OPEN STAGE – COTTAGE Abende statt.  <br>
 
 
 
+
 {% include image.html
   img="img/raum1.jpg"
   title=""
