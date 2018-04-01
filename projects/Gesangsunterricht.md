@@ -13,7 +13,7 @@ Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Wir w
 Ob du nun MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen willst, dann bist du bei [MIR](http://gesangscoaching.at/contact/) vollkommen richtig. 
 
 ## Schnupperstunde
-Beim Gesangsunterricht ist das Vertrauen zwischen Coach und Interessierten ausschlaggebend. Dazu ist es wichtig den passenden Coach zu finden. Daher gibt es die Schnupperstunde. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie sich deine Stimmbildung entwickeln könnte. [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
+Beim Gesangsunterricht ist das Vertrauen zwischen Coach und Interessierten ausschlaggebend. Dazu ist es wichtig den passenden Coach zu finden. Daher gibt es die Schnupperstunde. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie sich deine Stimmbildung entwickeln könnte. Die Schnupperstunde kostet 20€ und dauert 30 Minuten.  [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
 
 ## Stimmbildung - Moderne Gesangsstimme formen
 Beim Gesang ist die Stimme dein Instrument. <br>
@@ -36,5 +36,5 @@ Ich bereite dich nicht nur auf die Gesangsprüfung vor, ich gebe dir auch Tipps,
 
 ## Zeiten, Pakete, Preise
 Du selbst kannst wählen, wie oft du Gesangsunterricht nehmen möchtest. <br>
-Die Zeiten sind zumeist flexibel und somit steht einer individuellen Terminvereinbarung nichts im Wege. [MEHR INFO](http://gesangscoaching.at/contact/)
+Die Zeiten sind zumeist flexibel und somit steht einer individuellen Terminvereinbarung nichts im Wege. [MEHR INFO ÜBER PREISEN](http://voicecottage.at/unterrichtsangebot/preise-und-pakete/) 
 
