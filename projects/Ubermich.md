@@ -22,9 +22,13 @@ Vokal Schauspielerberuf <br>
 2008/2009 <br>
 
 ## Lehrpraxis<br>
-Vocasa Music, Wien, Österreich<br>
-Gesangslehrer<br>
-bis Juni 2017<br>
+VoiceCottage-KreativManufaktur Wien<br>
+Head Coach - Innhaber, Gesangslehrer<br>
+seit Oktober 2017<br>
+
+VHS Wien Meidling
+Musik-Kursleiter
+seit Februar 2018
 
 Musikhochschule Bratislava Theater Fakultät <br>
 Gesangslehrer<br>
