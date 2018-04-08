@@ -12,11 +12,11 @@ Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Wir w
 
 Ob du nun MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen willst, dann bist du bei [MIR](http://gesangscoaching.at/contact/) vollkommen richtig. 
 
-In VoiceCottage-KreativManufaktur bieten wir eine angenehme entspannte Atmosphäre mit Wohlfühlfaktor. Der Mainroom verfügt selbstverständlich auch über eine Bühne. Außerdem ist auch die Technik für einen professionellen Auftritt und Unterricht vorhanden. 
+VoiceCottage-KreativManufaktur bietet eine angenehme entspannte Atmosphäre mit Wohlfühlfaktor. Der Mainroom verfügt selbstverständlich auch über eine Bühne. Außerdem ist auch die Technik für einen professionellen Auftritt und Unterricht vorhanden. 
 
-Meine Studente haben da eine kostelose Möglichkeit auf die Bühne sich zu Präsantieren. Regelmässing finden sich unsere [OPEN STAGE – COTTAGE Abende statt. ](http://voicecottage.at/events/)
+Meine Studenten haben dort eine kostelose Möglichkeit sich auf der Bühne zu präsantieren. Regelmässing finden unsere [OPEN STAGE – COTTAGE Abende](http://voicecottage.at/events/) statt. 
 
-<img src="http://gesangscoaching.at/img/hedaer 2.jpg" width="300" height="850"  > 
+<img src="http://gesangscoaching.at/img/hedaer 2.jpg" width="850" height="300"  > 
 
 ## Schnupperstunde
 Beim Gesangsunterricht ist das Vertrauen zwischen Coach und Interessierten ausschlaggebend. Dazu ist es wichtig den passenden Coach zu finden. Daher gibt es die Schnupperstunde. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie sich deine Stimmbildung entwickeln könnte. Die Schnupperstunde kostet 20€ und dauert 30 Minuten.  [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
