@@ -8,8 +8,9 @@ layout: page
 <br>
 Ich biete Gesangsunterricht in verschiedene Stillrichtungen in meine eigene Gesangsschule VoiceCottage-KreativManufaktur in Wien an.</h3>
 
+HIER mehr über VOICECOTTAGE-KREATIVMANUFAKTUR WEIN erfahren:
 <a href="http://www.voicecottage.at">
-<img src="http://www.gesangscoaching.at/img/logo-web-cierne.jpg"  width="90" height="90" alt="HIER mehr erfahren"> 
+<img src="http://www.gesangscoaching.at/img/logo-web-cierne.jpg"  width="250" height="250" > 
 </a>
 
 <br>
