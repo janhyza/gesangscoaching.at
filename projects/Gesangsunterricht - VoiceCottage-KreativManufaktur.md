@@ -5,12 +5,16 @@ description: "Deine Stimme - Individuelle Gesangstechnik für dich"
 header-img: "img/ruka.jpg"
 ---
 
-## GESANGSUNTERRICHT
+## GESANGSUNTERRICHT in VoiceCottage-KreativManufaktur Wien
 Als Gesangslehrer und Musicaldarsteller habe ich viel Erfahrung aus dem Theaterbereich, dem Konservatorium sowie den Musik Universitäten mehrerer Länder und Fachbereiche. Es ist nicht wichtig, ob du Profi oder Anfänger bist, Kind oder Erwachsener, mit dem Singen anfangen kannst du immer! <br>
 
 Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Wir werden zusammen herausfinden, was du für deine Stimmbildung benötigst.<br>
 
 Ob du nun MUSICAL, POP, CHANSON, JAZZ, ROCK oder RnB singen willst, dann bist du bei [MIR](http://gesangscoaching.at/contact/) vollkommen richtig. 
+
+In VoiceCottage-KreativManufaktur bieten wir eine angenehme entspannte Atmosphäre mit Wohlfühlfaktor. Der Mainroom verfügt selbstverständlich auch über eine Bühne. Außerdem ist auch die Technik für einen professionellen Auftritt und Unterricht vorhanden. 
+
+Meine Studente haben da eine kostelose Möglichkeit auf die Bühne sich zu Präsantieren. Regelmässing finden sich unsere [OPEN STAGE – COTTAGE Abende statt. ](http://voicecottage.at/events/)
 
 ## Schnupperstunde
 Beim Gesangsunterricht ist das Vertrauen zwischen Coach und Interessierten ausschlaggebend. Dazu ist es wichtig den passenden Coach zu finden. Daher gibt es die Schnupperstunde. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie sich deine Stimmbildung entwickeln könnte. Die Schnupperstunde kostet 20€ und dauert 30 Minuten.  [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
