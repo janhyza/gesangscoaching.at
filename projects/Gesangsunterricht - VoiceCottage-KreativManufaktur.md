@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Gesangsunterricht in VoiceCottage-KreativManufaktur"
+title: "Gesangsunterricht in der VoiceCottage-KreativManufaktur"
 description: "Deine Stimme - Individuelle Gesangstechnik für dich"
 header-img: "img/ruka.jpg"
 ---
 
-## GESANGSUNTERRICHT in VoiceCottage-KreativManufaktur Wien
+## GESANGSUNTERRICHT in der VoiceCottage-KreativManufaktur Wien
 Als Gesangslehrer und Musicaldarsteller habe ich viel Erfahrung aus dem Theaterbereich, dem Konservatorium sowie den Musik Universitäten mehrerer Länder und Fachbereiche. Es ist nicht wichtig, ob du Profi oder Anfänger bist, Kind oder Erwachsener, mit dem Singen anfangen kannst du immer! <br>
 
 Ich strukturiere den Unterricht je nach Anforderung und somit individuell. Wir werden zusammen herausfinden, was du für deine Stimmbildung benötigst.<br>
