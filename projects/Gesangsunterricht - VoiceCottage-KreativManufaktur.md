@@ -16,7 +16,7 @@ In VoiceCottage-KreativManufaktur bieten wir eine angenehme entspannte Atmosphä
 
 Meine Studente haben da eine kostelose Möglichkeit auf die Bühne sich zu Präsantieren. Regelmässing finden sich unsere [OPEN STAGE – COTTAGE Abende statt. ](http://voicecottage.at/events/)
 
-<img src="http://gesangscoaching.at/img/hedaer 2.jpg"  > 
+<img src="http://gesangscoaching.at/img/hedaer 2.jpg" width="300" height="850"  > 
 
 ## Schnupperstunde
 Beim Gesangsunterricht ist das Vertrauen zwischen Coach und Interessierten ausschlaggebend. Dazu ist es wichtig den passenden Coach zu finden. Daher gibt es die Schnupperstunde. Hier können wir uns kennenlernen und du bekommst erste Eindrücke, wie sich deine Stimmbildung entwickeln könnte. Die Schnupperstunde kostet 20€ und dauert 30 Minuten.  [SCHNUPPERSTUNDE VEREINBAREN ](http://gesangscoaching.at/contact/)
