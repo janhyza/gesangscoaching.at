@@ -30,10 +30,10 @@ Derzeit Solo-Sängerin und Studentin der Musikhochschule Bratislava.
 ## JÁN HYŽA - Graf von Krolock - Tanz der Vampire, Slowakei
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yV6BODFKYe0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/yV6BODFKYe0" frameborder="0" allowfullscreen></iframe>
 
 <br/>
 ## JÁN HYŽA - Salonrevue - JazzBand
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=G9W8mEJtsaA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/G9W8mEJtsaA" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Fc1FaECOw5E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/Fc1FaECOw5E" frameborder="0" allowfullscreen></iframe>
