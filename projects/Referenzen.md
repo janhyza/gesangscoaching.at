@@ -6,13 +6,16 @@ header-img: "img/ples.jpg"
 ---
 
 ## NIKOLA ĎURICOVÁ
+Absolventin meiner Gesangsklasse auf dem Konservatorium.
+Derzeit Solo-Musicaldarstellerin in Prag.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FBmc9sztumM" frameborder="0" allowfullscreen></iframe>
 
 
 <br/>
 ## BARBORA ŠEMBEROVÁ
-
+Absolventin meiner Gesangsklasse auf dem Konservatorium.
+Derzeit Solo-Sängerin und Studentin des Musikhochschule Bratislava.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M-z1Vz1KxNg" frameborder="0" allowfullscreen></iframe>
 
@@ -22,3 +25,15 @@ header-img: "img/ples.jpg"
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YEtQy_lCfyE" frameborder="0" allowfullscreen></iframe>
+
+<br/>
+## JÁN HYŽA - Graf von Krolock - Tanz der Vampire, Slowakei
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yV6BODFKYe0" allowfullscreen></iframe>
+
+<br/>
+## JÁN HYŽA - Salonrevue - JazzBand
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=G9W8mEJtsaA" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Fc1FaECOw5E" allowfullscreen></iframe>
