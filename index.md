@@ -4,9 +4,9 @@ layout: page
 <h1>Herzlich Willkommen</h1>
 
 
-<h3>Professioneller Gesangsunterricht für Erwachsene und Kinder in Wien.<br>
+<h3>Professioneller Gesangsunterricht für Erwachsene und Kinder in Wien.</h3> <br>
 <br>
-Ich biete Gesangsunterricht in verschiedene Stillrichtungen in meine eigene Gesangsschule VoiceCottage-KreativManufaktur in Wien an.</h3>
+Ich biete Gesangsunterricht in verschiedenen Stillrichtungen in meiner eigenen Gesangsschule VoiceCottage-KreativManufaktur in Wien an.
 
 HIER mehr über VOICECOTTAGE-KREATIVMANUFAKTUR WEIN erfahren:
 <a href="http://www.voicecottage.at">
