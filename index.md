@@ -10,7 +10,7 @@ Ich biete Gesangsunterricht in verschiedene Stillrichtungen in meine eigene Gesa
 
 <a href="http://voicecottage.at">
 
-<img src="obrazok.jpg" width="50" height="50" alt="môj obrázok">
+<img src="logo-web-cierne.jpg" width="50" height="50" alt="Klick hier für mehr Infos">
 
 </a>
 
