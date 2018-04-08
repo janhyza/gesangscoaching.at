@@ -5,7 +5,7 @@ layout: page
 
 
 <h2>Professioneller Gesangsunterricht für Erwachsene und Kinder in Wien.<br>
-
+<i>
 Ich biete Gesangsunterricht in verschiedene Stillrichtungen in meine eigene Gesangsschule VoiceCottage-KreativManufaktur in Wien an.</h2>
 
 
