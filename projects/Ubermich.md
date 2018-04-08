@@ -26,9 +26,9 @@ VoiceCottage-KreativManufaktur Wien<br>
 Head Coach - Innhaber, Gesangslehrer<br>
 seit Oktober 2017<br>
 
-VHS Wien Meidling
-Musik-Kursleiter
-seit Februar 2018
+VHS Wien Meidling<br>
+Musik-Kursleiter<br>
+seit Februar 2018<br>
 
 Musikhochschule Bratislava Theater Fakultät <br>
 Gesangslehrer<br>
